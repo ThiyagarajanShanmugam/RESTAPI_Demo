@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "joi": "^17.13.3"
+  },
+  "name": "restapi_demo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
